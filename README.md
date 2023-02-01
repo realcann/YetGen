@@ -1,4 +1,4 @@
-# Eğitim Öncesi Uygulamaları
+# YetGen
 messi
 suarez
 ronaldo
