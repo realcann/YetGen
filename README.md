@@ -1,4 +1,4 @@
 # YetGen
-messi
-suarez
-ronaldo
+Sayfama
+hepiniz
+hoş geldiniz !
